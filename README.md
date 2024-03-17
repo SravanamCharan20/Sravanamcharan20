@@ -1,7 +1,7 @@
 Hi 👋 My name is Sravanam charan
 ================================
 
-Python Developer
+Python Developer,Fullstack web Developer
 ----------------
 
 I am python developer who love coding and learning new things.
