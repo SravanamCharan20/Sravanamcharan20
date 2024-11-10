@@ -2,7 +2,7 @@
 
 <h2 align="left">👋 Hello, I’m Sravanam Charan, a Full Stack Developer based in India.<br>I specialize in creating robust web and mobile applications, with expertise in both front-end and back-end technologies. Currently, I am enhancing my skills in Python, focusing on Data Structures and Algorithms. Additionally, I have experience in Android development.</h2>
 
-  * 🖥️  See my portfolio at [Myportfolio](http://charank6.github.io/my-portfolio/)
+  * 🖥️  See my portfolio at [Myportfolio](https://sravanamcharan.vercel.app/)
 
 
 ###
