@@ -1,14 +1,13 @@
 <br clear="both">
 
-<h2 align="left">👋 Hello, I’m Sravanam Charan, a Full Stack Developer based in India.<br>I specialize in creating robust web and mobile applications, with expertise in both front-end and back-end technologies. Currently, I am enhancing my skills in Python, focusing on Data Structures and Algorithms. Additionally, I have experience in Android development.</h2>
+<h2 align="left">👋 Hello, I’m Sravanam Charan, a Full Stack Developer from India.<br>I specialize in building scalable and efficient web and mobile applications, with deep expertise in front-end and back-end technologies. I am currently enhancing my proficiency in Python, focusing on mastering Data Structures and Algorithms to design optimal solutions for complex challenges. My experience extends to Android development, making me versatile across platforms.</h2>
 
-  * 🖥️  See my portfolio at [Myportfolio](https://sravanamcharan.vercel.app/)
+* 🌐 **Explore my portfolio:** [My Portfolio](https://sravanamcharan.vercel.app/)  
+* 📧 **Reach out:** [sravanamcharan20@gmail.com](mailto:sravanamcharan20@gmail.com)  
+* 🧑‍💻 **My Leetcode Profile:** [Leetcode](https://leetcode.com/u/oAE11cJaYp/)  
+* 🔗 **Connect on LinkedIn:** [LinkedIn](https://www.linkedin.com/in/sravanam-charan-67773b2a7/)  
 
-
-###
-
-<br clear="both">
-
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SravanamCharan20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
@@ -16,85 +15,30 @@
   <img src="https://streak-stats.demolab.com?user=SravanamCharan20&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,jest,storybook,vscode,vite,vercel,tailwind,anaconda,bootstrap,c,cpp,css,dart,express,git,github,firebase,flutter,html,mongodb,materialui,mysql,nextjs,nodejs,postman,py,visualstudio" height="40" alt="skills logos" />
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://m.media-amazon.com/images/S/pv-target-images/81ef275effa427553a847bc220bebe1dc314b2e79d00333f94a6bcadd7cce851.jpg"  />
-
-###
-
-### Badges
+### 🏆 Badges
 
 [![An image of @sravanamcharan20's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sravanamcharan20)](https://holopin.io/@sravanamcharan20)
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=sravanamcharan20@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+---
+
+<div align="center">
+  <a href="mailto:sravanamcharan20@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
   <a href="https://www.linkedin.com/in/sravanam-charan-67773b2a7/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <a href="https://leetcode.com/u/oAE11cJaYp/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Leetcode&logo=hackerrank&label=&color=2EC866&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+    <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" />
   </a>
 </div>
 
+<img align="right" height="150" src="https://m.media-amazon.com/images/S/pv-target-images/81ef275effa427553a847bc220bebe1dc314b2e79d00333f94a6bcadd7cce851.jpg" alt="developer image" />
