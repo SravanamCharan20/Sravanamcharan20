@@ -98,19 +98,3 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/SravanamCharan20/SravanamCharan20/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/SravanamCharan20/count.svg?"  />
-</div>
-
-###
-<div>
- https://github-profile-trophy.vercel.app/?username=SravanamCharan20&theme=monokai
-</div>
