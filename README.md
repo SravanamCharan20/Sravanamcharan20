@@ -6,24 +6,6 @@ I specialize in creating **scalable web and mobile applications** with a strong 
 
 ---
 
-### 🌟 GitHub Highlights  
-
-- 🔥 **Popular Repositories**:  
-  - [**Real-Time Code Collaboration Tool**](https://github.com/SravanamCharan20/real-time-collaboration) – A live coding platform using WebSockets and collaborative editing.
-  - [**Ecobites**](https://github.com/SravanamCharan20/EcoBites2) – The platform aims to connect restaurants, grocery stores, and individuals with excess food to charities, food banks, and         people in need. It provides a real-time marketplace for surplus food, helping reduce waste and ensure that surplus food reaches those who need it.  
-  - [**My Portfolio**](https://sravanamcharan.vercel.app/) – A showcase of my projects, skills, and professional journey.
-
-- 🛠️ **Open Source Contributions**:  
-  - Contributing to front-end frameworks, REST APIs, and performance-driven utilities in the open-source ecosystem.  
-  - Contributed to [Keshavsoft](https://github.com/SravanamCharan20/Laundry) on their **Automation Laundry Project**, enhancing operational efficiency and streamlining processes.  
-
-- 🚀 **Ongoing Projects**:  
-  - Enhancing problem-solving skills by mastering **Data Structures and Algorithms** through hands-on coding challenges and competitive programming.  
-  - Strengthening system design knowledge to build scalable and efficient solutions for complex real-world problems.  
-  - Exploring advanced concepts in **distributed systems**, **microservices architecture**, and **cloud computing** to deepen technical expertise.
-
----
-
 ### 🛠️ Tech Stack  
 
 <div align="center">
