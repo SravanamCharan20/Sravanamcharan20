@@ -3,15 +3,6 @@
 ### Full Stack Developer | Problem Solver ✅✅ | Open Source Enthusiast  
 
 I specialize in creating **scalable web and mobile applications** with a strong focus on efficiency, performance, and modern design principles. My expertise spans **front-end and back-end technologies**, complemented by experience in Android development. I am currently advancing my proficiency in **Python**, focusing on mastering **Data Structures and Algorithms** to solve complex problems and design robust solutions.  
-
----
-
-### 🛠️ Tech Stack  
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,nodejs,express,py,cpp,java,flutter,dart,mongodb,mysql,postgres,tailwind,bootstrap,firebase,docker,kubernetes,aws,git,github,vscode,postman,vercel" alt="Tech stack logos" />
-</div>
-
 ---
 
 ### 📊 GitHub Stats  
