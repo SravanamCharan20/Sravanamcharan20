@@ -1,8 +1,5 @@
 # 👋 Sravanam Charan  
 
-### Full Stack Developer | Problem Solver ✅✅ | Open Source Enthusiast  
-
-I specialize in creating **scalable web and mobile applications** with a strong focus on efficiency, performance, and modern design principles. My expertise spans **front-end and back-end technologies**, complemented by experience in Android development. I am currently advancing my proficiency in **Python**, focusing on mastering **Data Structures and Algorithms** to solve complex problems and design robust solutions.  
 ---
 
 ### 📊 GitHub Stats  
