@@ -1,2 +1,13 @@
 # Hey! Sravanam Charan here
-I’m a Full Stack Developer with a strong focus on backend engineering, scalable systems, and building products that solve real-world problems. I enjoy working across the MERN stack, designing clean user experiences on the frontend while building reliable APIs, distributed workflows, and efficient backend architectures behind the scenes. My interests lie in system design, real-time systems, distributed systems, and applied AI. I’m passionate about writing clean code, solving challenging problems, and continuously learning how large-scale products are built and scaled.
+
+<p align="left">
+
+I’m a <b>Full Stack Developer</b> with a strong focus on <span style="color:#6E8BFF;"><b>Backend Engineering</b></span>, <span style="color:#6E8BFF;"><b>Scalable Systems</b></span>, and building products that solve <b>real-world problems</b>.
+
+I enjoy working across the <b>MERN Stack</b>, designing clean user experiences on the frontend while building reliable <span style="color:#6E8BFF;"><b>APIs</b></span>, <span style="color:#6E8BFF;"><b>Distributed Workflows</b></span>, and efficient backend architectures behind the scenes.
+
+My interests lie in <b>System Design</b>, <b>Real-Time Systems</b>, <b>Distributed Systems</b>, and <b>Applied AI</b>.
+
+I’m passionate about writing <b>clean code</b>, solving <b>challenging problems</b>, and continuously learning how <span style="color:#6E8BFF;"><b>large-scale products</b></span> are built and scaled.
+
+</p>
