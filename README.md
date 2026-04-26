@@ -1,4 +1,4 @@
-# Hey! Sravanam Charan here
+<h1 align="left">Hey! I'm <span style="color:#6E8BFF;">Sravanam Charan</span> </h1>
 
 <p align="left">
 
