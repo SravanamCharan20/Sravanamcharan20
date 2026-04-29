@@ -8,6 +8,6 @@ I enjoy working across the <b>MERN Stack</b>, designing clean user experiences o
 
 My interests lie in <b>System Design</b>, <b>Real-Time Systems</b>, <b>Distributed Systems</b>, and <b>Applied AI</b>.
 
-I’m passionate about writing <b>clean code</b>, solving <b>challenging problems</b>, and continuously learning how <span style="color:#6E8BFF;"><b>large-scale products</b></span> are built and scaled.
+I’m passionate about writing <b>clean code</b>, solving <b>challenging problems</b>, and continuously learning how <span style="color:#6E8BFF;"><b>large-scale products</b></span> are built.
 
 </p>
