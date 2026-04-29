@@ -8,6 +8,4 @@ I enjoy working across the <b>MERN Stack</b>, designing clean user experiences o
 
 My interests lie in <b>System Design</b>, <b>Real-Time Systems</b>, <b>Distributed Systems</b>, and <b>Applied AI</b>.
 
-I’m 
-
 </p>
