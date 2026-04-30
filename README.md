@@ -7,5 +7,4 @@ I’m a <b>Full Stack Developer</b> with a strong focus on <span style="color:#6
 I enjoy working across the <b>MERN Stack</b>, designing clean user experiences on the frontend while building reliable <span style="color:#6E8BFF;"><b>APIs</b></span>, <span style="color:#6E8BFF;"><b>Distributed Workflows</b></span>, and efficient backend architectures behind the scenes.
 
 My interests lie in <b>System Design</b>, <b>Real-Time Systems</b>, <b>Distributed Systems</b>, and <b>Applied AI</b>.
-
 </p>
